@@ -73,6 +73,7 @@ curl -XPOST -H 'Authorization: token' -H "Content-type: application/json" -d '{
 ```
 
 A successful enrollment will return the new membership id:
+
 **example**
 
 ```
