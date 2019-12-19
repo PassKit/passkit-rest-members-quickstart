@@ -39,6 +39,8 @@ The example body below shows an enrollment payload with the default membershipDe
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/4c2837581f728efc4fa8)
 
+You can also find this command inside the [curl](./curl) folder in this repo
+
 **POST** - `https://api.pub1.passkit.io/members/member`
 
 **Headers**
