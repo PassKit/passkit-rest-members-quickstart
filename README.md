@@ -82,4 +82,5 @@ A successful enrollment will return the new membership id:
 ```
 
 Your new members pass can be viewed in the browser in this format: `https://pub1.pskt.io/${id}`
+
 _If your membership program is configured to send welcome emails upon enrollment, there will be a CTA button at the bottom with this link embedded in it_
