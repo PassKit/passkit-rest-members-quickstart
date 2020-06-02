@@ -33,7 +33,7 @@ To enroll a new member you will need at lease two things
 1. Program id
 2. Tier id
 
-The example body below shows an enrollment payload with the default membershipDetails configured as well for identification.
+The example body below shows an enrollment payload with the default person details configured as well for identification.
 
 #### API client
 
@@ -52,7 +52,7 @@ You can also find this command inside the [curl](./curl) folder in this repo
 {
   "programId": "target-program-id",
   "tierId": "target-tier-id",
-  "memberDetails": {
+  "person": {
     "displayName": "add-name",
     "emailAddress": "add-email"
   }
